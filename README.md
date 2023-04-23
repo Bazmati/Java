@@ -1,2 +1,2 @@
 # Java
-Cour de java
+Cours de java
